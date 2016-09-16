@@ -1,4 +1,4 @@
-<a id="header" href="https://d2v4w9ct073g2h.cloudfront.net"><img border="0" src="https://cloud.githubusercontent.com/assets/19661061/18597068/2bd8feba-7c1a-11e6-9a91-e42f9a480787.jpg" style="max-width:100%;"></a>
+<a id="header" href="http://dssf.qc.to"><img border="0" src="https://cloud.githubusercontent.com/assets/19661061/18597068/2bd8feba-7c1a-11e6-9a91-e42f9a480787.jpg" style="max-width:100%;"></a>
 【请点击上图】访问长春真相网站，大陆直连域名：[yfde.undo.it](http://yfde.undo.it)
 
 长春真相网旨在为华人读者，特别是大陆吉林省读者提供一个全面了解真相的平台。

@@ -8,3 +8,4 @@
 同时也转载一些其它海外正义网站的文章，揭秘中国大陆正在发生的热点大事件。
 
 本页永久地址：https://bit.do/chun
+[![qr](https://cloud.githubusercontent.com/assets/19661061/18683988/984468fe-7f40-11e6-84cb-ffd7f4a25ae1.jpg)]

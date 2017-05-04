@@ -9,4 +9,4 @@
 
 本页永久地址：https://bit.do/chun
 
-<a id="qr"><img border="0" src="https://cloud.githubusercontent.com/assets/19661061/18683988/984468fe-7f40-11e6-84cb-ffd7f4a25ae1.jpg" width=200;"></a>
+<a id="qr"><img border="0" src="https://cloud.githubusercontent.com/assets/19661061/18683988/984468fe-7f40-11e6-84cb-ffd7f4a25ae1.jpg" width=200;></a>

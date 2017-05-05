@@ -1,5 +1,5 @@
-<a id="header" href="http://yfde.undo.it"><img border="0" src="https://cloud.githubusercontent.com/assets/19661061/18597068/2bd8feba-7c1a-11e6-9a91-e42f9a480787.jpg" style="max-width:100%;"></a>
-【请点击上图】访问长春真相网站，大陆直连域名：[yfde.undo.it](http://yfde.undo.it)
+<a id="header" href="http://dssf.qc.to/"><img border="0" src="https://cloud.githubusercontent.com/assets/19661061/18597068/2bd8feba-7c1a-11e6-9a91-e42f9a480787.jpg" style="max-width:100%;"></a>
+【请点击上图】访问[长春真相](http://dssf.qc.to/)网站，大陆直连域名：[dssf.qc.to/](http://dssf.qc.to/)
 
 长春真相网旨在为华人读者，特别是大陆吉林省读者提供一个全面了解真相的平台。
 

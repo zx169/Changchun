@@ -1,5 +1,5 @@
 <a id="header" href="https://gyqxe.azureedge.net/ogPipe.aspx?name=http://622/&from=CCweb"><img border="0" src="https://cloud.githubusercontent.com/assets/19661061/18597068/2bd8feba-7c1a-11e6-9a91-e42f9a480787.jpg" style="max-width:100%;"></a>
-【请点击上图】访问[长春真相](https://gyqxe.azureedge.net/ogPipe.aspx?name=http://622/&from=CCweb)网站，大陆直连域名：https://bit.do/chun
+**【请点击上图】访问[长春真相](https://gyqxe.azureedge.net/ogPipe.aspx?name=http://622/&from=CCweb)网站，大陆直连域名：https://bit.do/chun**
 
 长春真相网旨在为华人读者，特别是大陆吉林省读者提供一个全面了解真相的平台。
 
